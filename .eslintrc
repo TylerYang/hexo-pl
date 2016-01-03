@@ -1,0 +1,6 @@
+{
+    "extends": "hexo",
+    "env": {
+        "node": true
+    }
+}

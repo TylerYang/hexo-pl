@@ -1,0 +1,44 @@
+{
+    "name": "hexo-pl",
+    "version": "0.0.1",
+    "description": "3rd party api platform for hexo.",
+    "main": "index.js",
+    "scripts": {
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tyleryang/hexo-pl.git"
+    },
+    "keywords": [
+        "hexo",
+        "api",
+        "hexo-server",
+        "plugin"
+    ],
+    "author": "Tyler Yang <tyler.z.yang@gmail.com>",
+    "bugs": {
+        "url": "https://github.com/tyleryang/hexo-pl/issues"
+    },
+    "homepage": "http://tyleryang.github.io/hexo-pl",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^1.10.3",
+        "eslint-config-hexo": "^1.0.2",
+        "gulp": "^3.9.0",
+        "gulp-clean": "^0.3.1",
+        "gulp-eslint": "^1.1.1"
+    },
+    "dependencies": {
+        "underscore": "^1.8.3",
+        "connect-route": "^0.1.5",
+        "body-parser": "^1.14.2",
+        "q": "^1.4.1",
+        "util": "^0.10.3",
+        "express-validator": "^2.18.0",
+        "moment": "^2.10.6",
+        "hexo-front-matter": "^0.2.2",
+        "extend": "^3.0.0",
+        "hexo-fs": "^0.1.5"
+    }
+}
