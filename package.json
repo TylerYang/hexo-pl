@@ -1,6 +1,6 @@
 {
     "name": "hexo-pl",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "3rd party api platform for hexo.",
     "main": "index.js",
     "scripts": {
